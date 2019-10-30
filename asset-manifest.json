@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/bachpo/static/css/main.1ee19208.chunk.css",
-    "main.js": "/bachpo/static/js/main.831532ef.chunk.js",
-    "main.js.map": "/bachpo/static/js/main.831532ef.chunk.js.map",
-    "runtime-main.js": "/bachpo/static/js/runtime-main.37acc8bc.js",
-    "runtime-main.js.map": "/bachpo/static/js/runtime-main.37acc8bc.js.map",
-    "static/js/2.7dcef2c8.chunk.js": "/bachpo/static/js/2.7dcef2c8.chunk.js",
-    "static/js/2.7dcef2c8.chunk.js.map": "/bachpo/static/js/2.7dcef2c8.chunk.js.map",
-    "index.html": "/bachpo/index.html",
-    "precache-manifest.388d86f3229a3d924f8e7555c66d6137.js": "/bachpo/precache-manifest.388d86f3229a3d924f8e7555c66d6137.js",
-    "service-worker.js": "/bachpo/service-worker.js",
-    "static/css/main.1ee19208.chunk.css.map": "/bachpo/static/css/main.1ee19208.chunk.css.map",
-    "static/media/magnus.jpg": "/bachpo/static/media/magnus.7f9ed6ca.jpg",
-    "static/media/odin.jpg": "/bachpo/static/media/odin.fb0b1e73.jpg",
-    "static/media/unknown.jpg": "/bachpo/static/media/unknown.c0be1774.jpg"
+    "main.css": "/bachelor-portfolio/static/css/main.1ee19208.chunk.css",
+    "main.js": "/bachelor-portfolio/static/js/main.3a15024a.chunk.js",
+    "main.js.map": "/bachelor-portfolio/static/js/main.3a15024a.chunk.js.map",
+    "runtime-main.js": "/bachelor-portfolio/static/js/runtime-main.ae2df25b.js",
+    "runtime-main.js.map": "/bachelor-portfolio/static/js/runtime-main.ae2df25b.js.map",
+    "static/js/2.f4f8ce90.chunk.js": "/bachelor-portfolio/static/js/2.f4f8ce90.chunk.js",
+    "static/js/2.f4f8ce90.chunk.js.map": "/bachelor-portfolio/static/js/2.f4f8ce90.chunk.js.map",
+    "index.html": "/bachelor-portfolio/index.html",
+    "precache-manifest.2777abe1d2aae637640fcda0afb66073.js": "/bachelor-portfolio/precache-manifest.2777abe1d2aae637640fcda0afb66073.js",
+    "service-worker.js": "/bachelor-portfolio/service-worker.js",
+    "static/css/main.1ee19208.chunk.css.map": "/bachelor-portfolio/static/css/main.1ee19208.chunk.css.map",
+    "static/media/magnus.jpg": "/bachelor-portfolio/static/media/magnus.7f9ed6ca.jpg",
+    "static/media/odin.jpg": "/bachelor-portfolio/static/media/odin.fb0b1e73.jpg",
+    "static/media/unknown.jpg": "/bachelor-portfolio/static/media/unknown.c0be1774.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.37acc8bc.js",
-    "static/js/2.7dcef2c8.chunk.js",
+    "static/js/runtime-main.ae2df25b.js",
+    "static/js/2.f4f8ce90.chunk.js",
     "static/css/main.1ee19208.chunk.css",
-    "static/js/main.831532ef.chunk.js"
+    "static/js/main.3a15024a.chunk.js"
   ]
 }
