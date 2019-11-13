@@ -1,24 +1,30 @@
 {
   "files": {
-    "main.css": "/bachelor-portfolio/static/css/main.1ee19208.chunk.css",
-    "main.js": "/bachelor-portfolio/static/js/main.3a15024a.chunk.js",
-    "main.js.map": "/bachelor-portfolio/static/js/main.3a15024a.chunk.js.map",
+    "main.css": "/bachelor-portfolio/static/css/main.0ac54439.chunk.css",
+    "main.js": "/bachelor-portfolio/static/js/main.8204adb4.chunk.js",
+    "main.js.map": "/bachelor-portfolio/static/js/main.8204adb4.chunk.js.map",
     "runtime-main.js": "/bachelor-portfolio/static/js/runtime-main.ae2df25b.js",
     "runtime-main.js.map": "/bachelor-portfolio/static/js/runtime-main.ae2df25b.js.map",
-    "static/js/2.f4f8ce90.chunk.js": "/bachelor-portfolio/static/js/2.f4f8ce90.chunk.js",
-    "static/js/2.f4f8ce90.chunk.js.map": "/bachelor-portfolio/static/js/2.f4f8ce90.chunk.js.map",
+    "static/js/2.fdeddf35.chunk.js": "/bachelor-portfolio/static/js/2.fdeddf35.chunk.js",
+    "static/js/2.fdeddf35.chunk.js.map": "/bachelor-portfolio/static/js/2.fdeddf35.chunk.js.map",
     "index.html": "/bachelor-portfolio/index.html",
-    "precache-manifest.2777abe1d2aae637640fcda0afb66073.js": "/bachelor-portfolio/precache-manifest.2777abe1d2aae637640fcda0afb66073.js",
+    "precache-manifest.a66efb706a66649e5d549e42dbb31b61.js": "/bachelor-portfolio/precache-manifest.a66efb706a66649e5d549e42dbb31b61.js",
     "service-worker.js": "/bachelor-portfolio/service-worker.js",
-    "static/css/main.1ee19208.chunk.css.map": "/bachelor-portfolio/static/css/main.1ee19208.chunk.css.map",
+    "static/css/main.0ac54439.chunk.css.map": "/bachelor-portfolio/static/css/main.0ac54439.chunk.css.map",
+    "static/media/daniel.jpg": "/bachelor-portfolio/static/media/daniel.abaf5523.jpg",
+    "static/media/fis.png": "/bachelor-portfolio/static/media/fis.a4e7b86e.png",
+    "static/media/linkedin-outline.ceaaba23.svg": "/bachelor-portfolio/static/media/linkedin-outline.ceaaba23.svg",
     "static/media/magnus.jpg": "/bachelor-portfolio/static/media/magnus.7f9ed6ca.jpg",
-    "static/media/odin.jpg": "/bachelor-portfolio/static/media/odin.fb0b1e73.jpg",
+    "static/media/odin.jpg": "/bachelor-portfolio/static/media/odin.76242bb7.jpg",
+    "static/media/omsorg_app.png": "/bachelor-portfolio/static/media/omsorg_app.e721e547.png",
+    "static/media/omsorg_web.png": "/bachelor-portfolio/static/media/omsorg_web.12beaa48.png",
+    "static/media/stian.png": "/bachelor-portfolio/static/media/stian.5d9bea12.png",
     "static/media/unknown.jpg": "/bachelor-portfolio/static/media/unknown.c0be1774.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ae2df25b.js",
-    "static/js/2.f4f8ce90.chunk.js",
-    "static/css/main.1ee19208.chunk.css",
-    "static/js/main.3a15024a.chunk.js"
+    "static/js/2.fdeddf35.chunk.js",
+    "static/css/main.0ac54439.chunk.css",
+    "static/js/main.8204adb4.chunk.js"
   ]
 }
