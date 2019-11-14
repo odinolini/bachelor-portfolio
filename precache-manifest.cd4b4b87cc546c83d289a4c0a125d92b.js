@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "84e9b887cf2d013a24e03eda66a8a99f",
+    "revision": "202ec5de57c8c222f2a0f966d399455d",
     "url": "/bachelor-portfolio/index.html"
   },
   {
-    "revision": "7d04d8414649e1bfdf7f",
+    "revision": "cdf70cd482b8d4037205",
     "url": "/bachelor-portfolio/static/css/main.0ac54439.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bachelor-portfolio/static/js/2.fdeddf35.chunk.js"
   },
   {
-    "revision": "7d04d8414649e1bfdf7f",
-    "url": "/bachelor-portfolio/static/js/main.2fa59780.chunk.js"
+    "revision": "cdf70cd482b8d4037205",
+    "url": "/bachelor-portfolio/static/js/main.51d1bc15.chunk.js"
   },
   {
     "revision": "446d05fb440ac3aa1a14",
@@ -26,10 +26,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a4e7b86ef1e3eaecb8be7c7a795f285d",
     "url": "/bachelor-portfolio/static/media/fis.a4e7b86e.png"
-  },
-  {
-    "revision": "ceaaba23ba5416b8c66a8e58f8dbfe0a",
-    "url": "/bachelor-portfolio/static/media/linkedin-outline.ceaaba23.svg"
   },
   {
     "revision": "7f9ed6ca159f1bdf016b52267553d467",
