@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bachelor-portfolio/static/css/main.0ac54439.chunk.css",
-    "main.js": "/bachelor-portfolio/static/js/main.026d6d48.chunk.js",
-    "main.js.map": "/bachelor-portfolio/static/js/main.026d6d48.chunk.js.map",
+    "main.js": "/bachelor-portfolio/static/js/main.7d6868aa.chunk.js",
+    "main.js.map": "/bachelor-portfolio/static/js/main.7d6868aa.chunk.js.map",
     "runtime-main.js": "/bachelor-portfolio/static/js/runtime-main.ae2df25b.js",
     "runtime-main.js.map": "/bachelor-portfolio/static/js/runtime-main.ae2df25b.js.map",
     "static/js/2.3fe018fe.chunk.js": "/bachelor-portfolio/static/js/2.3fe018fe.chunk.js",
     "static/js/2.3fe018fe.chunk.js.map": "/bachelor-portfolio/static/js/2.3fe018fe.chunk.js.map",
     "index.html": "/bachelor-portfolio/index.html",
-    "precache-manifest.13c72e6170b49f2a17e044fe9ffd5bf7.js": "/bachelor-portfolio/precache-manifest.13c72e6170b49f2a17e044fe9ffd5bf7.js",
+    "precache-manifest.4e2ae4cdd4799319c28723c5c9858225.js": "/bachelor-portfolio/precache-manifest.4e2ae4cdd4799319c28723c5c9858225.js",
     "service-worker.js": "/bachelor-portfolio/service-worker.js",
     "static/css/main.0ac54439.chunk.css.map": "/bachelor-portfolio/static/css/main.0ac54439.chunk.css.map",
     "static/media/daniel.jpg": "/bachelor-portfolio/static/media/daniel.abaf5523.jpg",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.ae2df25b.js",
     "static/js/2.3fe018fe.chunk.js",
     "static/css/main.0ac54439.chunk.css",
-    "static/js/main.026d6d48.chunk.js"
+    "static/js/main.7d6868aa.chunk.js"
   ]
 }
