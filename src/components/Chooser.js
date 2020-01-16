@@ -40,7 +40,7 @@ const Chooser = ({ items }) => {
     <List>
       {items.map((item, i) => {
         return (
-          <ListItem tabIndex="1" key={i} onClick={() => console.log("WHAAA")}>
+          <ListItem tabIndex="0" key={i} onClick={() => console.log("WHAAA")}>
             {item}
           </ListItem>
         );
