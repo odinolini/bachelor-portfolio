@@ -1,17 +1,11 @@
 {
-<<<<<<< HEAD
-  "short_name": "Bachelorgruppe 2020",
-=======
   "short_name": "React App",
   "name": "Create React App Sample",
->>>>>>> fdce927005451d308a452a34cfd8bccddee33996
   "icons": [
     {
       "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
-<<<<<<< HEAD
-=======
     },
     {
       "src": "logo192.png",
@@ -22,7 +16,6 @@
       "src": "logo512.png",
       "type": "image/png",
       "sizes": "512x512"
->>>>>>> fdce927005451d308a452a34cfd8bccddee33996
     }
   ],
   "start_url": ".",
