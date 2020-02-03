@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bachelor-portfolio/static/css/main.0ac54439.chunk.css",
+    "main.js": "/bachelor-portfolio/static/js/main.67456894.chunk.js",
+    "main.js.map": "/bachelor-portfolio/static/js/main.67456894.chunk.js.map",
+    "runtime-main.js": "/bachelor-portfolio/static/js/runtime-main.ae2df25b.js",
+    "runtime-main.js.map": "/bachelor-portfolio/static/js/runtime-main.ae2df25b.js.map",
+    "static/js/2.2e367778.chunk.js": "/bachelor-portfolio/static/js/2.2e367778.chunk.js",
+    "static/js/2.2e367778.chunk.js.map": "/bachelor-portfolio/static/js/2.2e367778.chunk.js.map",
+    "index.html": "/bachelor-portfolio/index.html",
+    "precache-manifest.f2d7ca158e97453d037b56a75170b1d1.js": "/bachelor-portfolio/precache-manifest.f2d7ca158e97453d037b56a75170b1d1.js",
+    "service-worker.js": "/bachelor-portfolio/service-worker.js",
+    "static/css/main.0ac54439.chunk.css.map": "/bachelor-portfolio/static/css/main.0ac54439.chunk.css.map",
+    "static/media/PDF.svg": "/bachelor-portfolio/static/media/PDF.5a9681c8.svg",
+    "static/media/daniel.jpg": "/bachelor-portfolio/static/media/daniel.abaf5523.jpg",
+    "static/media/magnus.jpg": "/bachelor-portfolio/static/media/magnus.7f9ed6ca.jpg",
+    "static/media/odin.jpg": "/bachelor-portfolio/static/media/odin.76242bb7.jpg",
+    "static/media/stian.png": "/bachelor-portfolio/static/media/stian.5d9bea12.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae2df25b.js",
+    "static/js/2.2e367778.chunk.js",
+    "static/css/main.0ac54439.chunk.css",
+    "static/js/main.67456894.chunk.js"
+  ]
+}
