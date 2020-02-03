@@ -133,7 +133,7 @@ function App() {
               title: "Statusrapport",
               text: "Statusrapport skrevet før prosjektstart",
               src: './docs/Statusrapport.pdf'
-            },
+            }/* ,
             {
               img: require("./img/PDF.svg"),
               alt: "Forprosjektrapport",
@@ -152,7 +152,7 @@ function App() {
               alt: "Sluttrapport",
               title: "Sluttrapport",
               text: " "
-            }
+            } */
           ]}
         />
       </ProjectsSection>
