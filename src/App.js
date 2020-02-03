@@ -75,12 +75,15 @@ function App() {
         <AboutUs
           aboutUsText={
             <>
-              <b>Vi er</b> en gruppe som studerer Anvendt datateknologi på
-              OsloMet. Vårsemesteret 2020 skal vi lage et bachelorprosjekt og vi
-              er på utkikk etter en organisasjon som kan være vår oppdragsgiver.
-              Vi ønsker derfor å komme i kontakt med bedrifter eller andre som
-              har datatekniske problemer, oppgaver eller prosjekter som vil
-              passe som et studentprosjekt.
+              <h2>Gruppe 21 - Bilpriskalkulator for Nabobil</h2>
+              <h3>Oppgavebeskrivelse</h3>
+              <p>
+                Prosjektoppgaven går ut på at vi skal utvikle en
+                bilpriskalkulator for Nabobil. Løsningen skal bli en
+                webapplikasjon hvor potensielle utleiere kan få vite hvor mye de
+                kan tjene på salg av bilen i forhold til utleie av bil gjennom
+                interaktive visualiseringer og integrasjon med sosiale medier.
+              </p>
             </>
           }
           persons={[
@@ -89,8 +92,7 @@ function App() {
               name: "Odin Andberg",
               email: "s320926@oslomet.no",
               linkedin: "https://www.linkedin.com/in/odin-andberg-b99969196",
-              text:
-                "JavaScript-entusiast. Spiller gitar og kontrabass på fritiden."
+              text: "Front-end utvikler & Universell utforming"
             },
             {
               img: require("./img/magnus.jpg"),
@@ -98,22 +100,14 @@ function App() {
               email: "s235764@oslomet.no",
               linkedin:
                 "https://www.linkedin.com/in/magnus-kristoffer-unstad-960510193/",
-              text: "Gruppens nordnorske alibi. Å forstå kundens behov er sannsynligvis den viktigste og vanskeligste delen av jobben vi gjør."
+              text: "Teamleder & Interaksjonsdesign"
             },
             {
               img: require("./img/stian.png"),
               name: "Stian Wingaard",
               email: "s326323@oslomet.no",
               linkedin: "https://www.linkedin.com/in/stian-wingaard-2b7ab5182/",
-              text: "Jeg er lidenskapelig opptatt av gode brukeroppplevelser og smarte systemer."
-            },
-            {
-              img: require("./img/unknown.jpg"),
-              name: "Marius Haugsand",
-              email: "s326277@oslomet.no",
-              linkedin: false,
-              text:
-                "Har den raskeste 240en på denne siden av svenskegrensa."
+              text: "Backend-utvikler & Sikkerhet"
             },
             {
               img: require("./img/daniel.jpg"),
@@ -121,8 +115,7 @@ function App() {
               email: "s326286@oslomet.no",
               linkedin:
                 "https://www.linkedin.com/in/daniel-s%C3%B8renes-949840147/",
-              text:
-              "Foretrekker back-end og filter kaffe. Vært 6 måneder på utveksling på QUT i Australia."
+              text: "Backend-utvikler & Skytjenester"
             }
           ]}
         />
@@ -131,34 +124,34 @@ function App() {
         </Center>
       </AboutUsSection>
       <ProjectsSection>
-        <H2>Våre prosjekter</H2>
-        <ProjectsText>
-          Vi har jobbet med mange prosjekter gjennom studietiden. Her er et lite
-          utvalg av våre praktiske prosjekter. I tillegg til disse har vi jobbet
-          sammen om en rekke akademiske prosjekter.
-        </ProjectsText>
+        <H2>Dokumentasjon</H2>
         <ProjectCard
           projects={[
             {
-              img: require("./img/omsorg_web.png"),
-              alt: "Skjermskudd av Omsorg webside",
-              title: "Omsorg Webside",
-              text:
-                "Dette prosjektet er en webside som presenterer en fiktiv app, Omsorg, til bruk i helsesektoren. Prosjektet ble utført som en del av faget Webprosjekt."
+              img: require("./img/PDF.svg"),
+              alt: "Statusrapport",
+              title: "Statusrapport",
+              text: "Statusrapport skrevet før prosjektstart",
+              src: './docs/Statusrapport.pdf'
             },
             {
-              img: require("./img/omsorg_app.png"),
-              alt: "Skjermskudd av Omsorg app",
-              title: "Omsorg - App prototype",
+              img: require("./img/PDF.svg"),
+              alt: "Forprosjektrapport",
+              title: "Forprosjektrapport",
               text:
-                "Vi skapte en prototype av Omsorg-appen i Adobe XD. Prosjektet ble utført som en del av faget Prototyping."
+                "Inneholder bl.a. kravspesifikasjon, brukerhistorier, mål & rammebetingelser"
             },
             {
-              img: require("./img/fis.png"),
-              alt: "Skjermskudd av Forsikring i System",
-              title: "Forsikring i System",
-              text:
-                "Forsikring i System er et skrivebordsprogram utviklet i Java, som fungerer som et forsikringsregister for et fiktivt forsikringsselskap. Prosjektet ble utført som del av faget programutvikling."
+              img: require("./img/PDF.svg"),
+              alt: "Prosjektskisse",
+              title: "Prosjektskisse",
+              text: "beskrivelse av prosjektet og teknologiene vi benytter"
+            },
+            {
+              img: require("./img/PDF.svg"),
+              alt: "Sluttrapport",
+              title: "Sluttrapport",
+              text: " "
             }
           ]}
         />

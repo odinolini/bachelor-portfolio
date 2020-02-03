@@ -205,26 +205,23 @@ const Terminal = props => {
       </TerminalHeader>
       <TerminalBg>
         <TerminalContent>
-          <TerminalPrefix>➜ dreamteam:~$ </TerminalPrefix>I front-end snakker
-          vi:
+          <TerminalPrefix>➜ dreamteam:~$ </TerminalPrefix>Vår teknologistack består av:
+          <br />
+          Front-end:
           <p>
             <ColoredText>
-              ['Semantisk HTML', 'JavaScript', 'CSS', 'React.js']
+              ['HTML', 'JavaScript', 'CSS', 'React.js']
             </ColoredText>
           </p>
-          I back-end har vi erfaring med:
+          Back-end:
           <p>
             <ColoredText>
-              ['Node.js', 'Python', 'Java', 'C#', 'PHP']
+              ['C#', 'GraphQL', 'PostgreSQL', 'Redis', 'Docker']
             </ColoredText>
           </p>
-          Vi har erfaring med skytjenester:
+          Samarbeid, verktøy og produktivitet:
           <p>
-            <ColoredText> ['Azure', 'Firebase', 'AWS']</ColoredText>
-          </p>
-          Våre foretrukne arbeidsverktøy:
-          <p>
-            <ColoredText>['VsCode', 'IntelliJ', 'Git', 'Trello']</ColoredText>
+            <ColoredText>['VsCode', 'Git', 'miro', 'Slack']</ColoredText>
           </p>
           <p>
             <ColoredText>{output}</ColoredText>

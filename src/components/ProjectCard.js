@@ -26,9 +26,9 @@ const ProjectCard = props => {
 
   const Img = styled.img`
     padding: 0 1em 0 1em;
-    width: 230px;
-    height: 230px;
-    object-fit: cover;
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
     object-position: 0 0;
     @media (max-width: 950px) {
       margin: 0 auto;
@@ -51,7 +51,7 @@ const ProjectCard = props => {
         {props.projects.map(project => {
           return (
             <Card key={project.alt}>
-              <a href={project.img} style={{margin: '0 auto'}}>
+              <a href={project.src} style={{margin: '0 auto'}} download>
                 <Img src={project.img} alt={project.alt} />
               </a>
               <TextContainer>

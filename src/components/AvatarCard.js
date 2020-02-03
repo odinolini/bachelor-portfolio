@@ -14,7 +14,7 @@ const AvatarCard = ({ src, name, children, email, linkedin }) => {
     flex-direction: column;
     align-items: center;
     @media (min-width: 950px) {
-      width: 25%;
+      width: 20%;
     }
   `;
 
