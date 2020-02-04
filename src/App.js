@@ -132,21 +132,23 @@ function App() {
               alt: "Statusrapport",
               title: "Statusrapport",
               text: "Statusrapport skrevet før prosjektstart",
-              src: './docs/Statusrapport.pdf'
-            }/* ,
-            {
-              img: require("./img/PDF.svg"),
-              alt: "Forprosjektrapport",
-              title: "Forprosjektrapport",
-              text:
-                "Inneholder bl.a. kravspesifikasjon, brukerhistorier, mål & rammebetingelser"
+              src: "./docs/Statusrapport.pdf"
             },
             {
               img: require("./img/PDF.svg"),
               alt: "Prosjektskisse",
               title: "Prosjektskisse",
-              text: "beskrivelse av prosjektet og teknologiene vi benytter"
+              text: "beskrivelse av prosjektet og teknologiene vi benytter",
+              src: "./docs/Prosjektskisse.pdf"
             },
+            {
+              img: require("./img/PDF.svg"),
+              alt: "Forprosjektrapport",
+              title: "Forprosjektrapport",
+              text:
+                "Inneholder bl.a. kravspesifikasjon, brukerhistorier, mål & rammebetingelser",
+              src: "./docs/Forprosjektrapport.pdf"
+            } /* ,
             {
               img: require("./img/PDF.svg"),
               alt: "Sluttrapport",
