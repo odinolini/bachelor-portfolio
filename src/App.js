@@ -75,7 +75,7 @@ function App() {
         <AboutUs
           aboutUsText={
             <>
-              <h2>Gruppe 21 - Bilpriskalkulator for Nabobil</h2>
+              <h2>Gruppe 21 - Salg eller utleie – En webapplikasjon for Nabobil.no</h2>
               <h3>Oppgavebeskrivelse</h3>
               <p>
                 Prosjektoppgaven går ut på at vi skal utvikle en
@@ -148,13 +148,13 @@ function App() {
               text:
                 "Inneholder bl.a. kravspesifikasjon, brukerhistorier, mål & rammebetingelser",
               src: "./docs/Forprosjektrapport.pdf"
-            } /* ,
+            } ,
             {
               img: require("./img/PDF.svg"),
               alt: "Sluttrapport",
               title: "Sluttrapport",
-              text: " "
-            } */
+              text: "./docs/Sluttrapport.pdf"
+            }
           ]}
         />
       </ProjectsSection>
