@@ -150,10 +150,10 @@ function App() {
               src: "./docs/Forprosjektrapport.pdf"
             } ,
             {
-              img: require("./img/PDF.svg"),
+              img: require("./docs/Sluttrapport.pdf"),
               alt: "Sluttrapport",
               title: "Sluttrapport",
-              text: "./docs/Sluttrapport.pdf"
+              text: ""
             }
           ]}
         />
