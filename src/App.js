@@ -153,7 +153,8 @@ function App() {
               img: require("./docs/Sluttrapport.pdf"),
               alt: "Sluttrapport",
               title: "Sluttrapport",
-              text: ""
+              text: "",
+              src: "./docs/Sluttrapport.pdf"
             }
           ]}
         />
