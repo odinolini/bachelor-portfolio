@@ -150,7 +150,7 @@ function App() {
               src: "./docs/Forprosjektrapport.pdf"
             } ,
             {
-              img: require("./docs/Sluttrapport.pdf"),
+              img: require("./img/PDF.svg"),
               alt: "Sluttrapport",
               title: "Sluttrapport",
               text: "",
