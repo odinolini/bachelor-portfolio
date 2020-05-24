@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bachelor-portfolio/static/css/main.fd19993f.chunk.css",
+    "main.js": "/bachelor-portfolio/static/js/main.c78dec6a.chunk.js",
+    "main.js.map": "/bachelor-portfolio/static/js/main.c78dec6a.chunk.js.map",
+    "runtime-main.js": "/bachelor-portfolio/static/js/runtime-main.ae2df25b.js",
+    "runtime-main.js.map": "/bachelor-portfolio/static/js/runtime-main.ae2df25b.js.map",
+    "static/js/2.d6f9cfcd.chunk.js": "/bachelor-portfolio/static/js/2.d6f9cfcd.chunk.js",
+    "static/js/2.d6f9cfcd.chunk.js.map": "/bachelor-portfolio/static/js/2.d6f9cfcd.chunk.js.map",
+    "index.html": "/bachelor-portfolio/index.html",
+    "precache-manifest.668765d76e6825035508812d6b4efc2c.js": "/bachelor-portfolio/precache-manifest.668765d76e6825035508812d6b4efc2c.js",
+    "service-worker.js": "/bachelor-portfolio/service-worker.js",
+    "static/css/main.fd19993f.chunk.css.map": "/bachelor-portfolio/static/css/main.fd19993f.chunk.css.map",
+    "static/media/PDF.svg": "/bachelor-portfolio/static/media/PDF.4b8ae1b0.svg",
+    "static/media/daniel.jpg": "/bachelor-portfolio/static/media/daniel.abaf5523.jpg",
+    "static/media/magnus.jpg": "/bachelor-portfolio/static/media/magnus.7f9ed6ca.jpg",
+    "static/media/odin.jpg": "/bachelor-portfolio/static/media/odin.76242bb7.jpg",
+    "static/media/stian.png": "/bachelor-portfolio/static/media/stian.5d9bea12.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae2df25b.js",
+    "static/js/2.d6f9cfcd.chunk.js",
+    "static/css/main.fd19993f.chunk.css",
+    "static/js/main.c78dec6a.chunk.js"
+  ]
+}
